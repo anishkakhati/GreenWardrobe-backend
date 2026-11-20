@@ -1,0 +1,16 @@
+material,water,carbon,energy,chemicals,microfibres,waste,source_note
+polyester,75,78,72,55,95,70,DEMO PLACEHOLDER - replace with sourced LCA data
+cotton,85,55,50,65,10,55,DEMO PLACEHOLDER - replace with sourced LCA data
+organic_cotton,65,45,45,35,10,45,DEMO PLACEHOLDER - replace with sourced LCA data
+linen,40,40,35,35,10,30,DEMO PLACEHOLDER - replace with sourced LCA data
+viscose,70,60,55,75,10,65,DEMO PLACEHOLDER - replace with sourced LCA data
+wool,55,65,55,45,25,40,DEMO PLACEHOLDER - replace with sourced LCA data
+nylon,70,85,80,60,90,75,DEMO PLACEHOLDER - replace with sourced LCA data
+hemp,30,35,35,30,10,25,DEMO PLACEHOLDER - replace with sourced LCA data
+acrylic,40,80,75,80,95,85,DEMO PLACEHOLDER - comparative baseline estimate
+silk,65,60,65,40,10,25,DEMO PLACEHOLDER - comparative baseline estimate
+elastane,45,75,80,70,90,85,DEMO PLACEHOLDER - comparative baseline estimate
+modal,45,45,45,55,10,35,DEMO PLACEHOLDER - comparative baseline estimate
+lyocell,30,35,40,25,10,20,DEMO PLACEHOLDER - comparative baseline estimate
+cashmere,60,70,55,40,15,30,DEMO PLACEHOLDER - comparative baseline estimate
+leather,90,80,75,95,10,65,DEMO PLACEHOLDER - comparative baseline estimate

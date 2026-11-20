@@ -1,0 +1,1 @@
+image_id,relative_path,task,ground_truth_class,ground_truth_fibre,source,consent_or_license,capture_device,lighting,background,difficulty,annotator,annotation_notes,split,predicted_fibre,confidence,top_3_predictions,checkpoint_version

@@ -1,0 +1,18 @@
+filename,ground_truth_category,image_source,notes
+../labels/label_0001.jpg,LABEL,repository fixture: genuine care label,Existing label validation fixture
+../labels/label_0002.jpg,LABEL,repository fixture: genuine care label,Existing label validation fixture
+../labels/label_0003.jpg,LABEL,repository fixture: genuine care label,Existing label validation fixture
+../labels/label_0004.jpg,LABEL,repository fixture: genuine care label,Existing label validation fixture
+../labels/label_0005.jpg,LABEL,repository fixture: genuine care label,Existing label validation fixture
+generated_uniform_white,UNKNOWN,synthetic deterministic generator,Uniform white negative; not a garment
+generated_uniform_black,UNKNOWN,synthetic deterministic generator,Uniform black negative; not a garment
+generated_uniform_gray,UNKNOWN,synthetic deterministic generator,Uniform gray negative; not a garment
+generated_rgb_iid_seed_7,UNKNOWN,synthetic deterministic generator: RGB iid noise seed 7,Random texture negative; not a garment
+generated_rgb_iid_seed_19,UNKNOWN,synthetic deterministic generator: RGB iid noise seed 19,Random texture negative; not a garment
+generated_rgb_iid_seed_42,UNKNOWN,synthetic deterministic generator: RGB iid noise seed 42,Random texture negative; not a garment
+generated_gray_iid_seed_7,UNKNOWN,synthetic deterministic generator: grayscale iid noise seed 7,Random texture negative; not a garment
+generated_rgb_coarse_seed_7,UNKNOWN,synthetic deterministic generator: coarse RGB blocks seed 7,Random texture negative; not a garment
+generated_rgb_coarse_seed_19,UNKNOWN,synthetic deterministic generator: coarse RGB blocks seed 19,Random texture negative; not a garment
+generated_rgb_coarse_seed_42,UNKNOWN,synthetic deterministic generator: coarse RGB blocks seed 42,Random texture negative; not a garment
+skimage_astronaut,UNKNOWN,locally installed scikit-image sample image,Unrelated astronaut photograph; referenced in place and not copied
+skimage_rocket,UNKNOWN,locally installed scikit-image sample image,Unrelated rocket photograph; referenced in place and not copied
